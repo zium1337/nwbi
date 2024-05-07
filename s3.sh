@@ -32,3 +32,4 @@ case $1 in
         echo "--help lub -h | wyswietla ta wiadomosc"
         echo "--date lub -d | wyswietla dzisiejsza date"
         echo "--logs [ilosc] lub -l [ilosc] | generuje pliki txt (domyslnie 100)"
+esac
